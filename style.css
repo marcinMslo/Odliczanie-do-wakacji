@@ -1,0 +1,42 @@
+body
+{
+background-color: medium grey;
+font-family: Verdana;
+font-size: 24px;
+color: black;
+}
+#container
+{
+	padding-top: 50px;
+	padding-left: 9px;
+	padding-right: 9px;
+	padding-bottom:50px;
+	background-color: grey;
+	margin: auto;
+    width: 900px;
+}
+#aktualnaData
+{
+	  text-align: center;
+    border: 3px solid black
+}
+#dniDoWydarzenia
+{
+	  text-align: center;
+    border: 3px solid black;
+}
+#doWydarzenia
+{
+	  text-align: center;
+    border: 3px solid black;
+}
+
+#dataWydarzenia
+{
+	  text-align: center;
+    border: 3px solid black;
+}
+
+
+
+
